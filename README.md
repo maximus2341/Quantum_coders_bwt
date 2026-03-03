@@ -7,7 +7,7 @@ Goal:
 
 Develop a fraud intelligence system to identify fraudulent intent from behavioural context before fraud patterns are established. This should include low false-positive rates.
 
-💡 Solution Overview
+ Solution Overview
 
 FraudSense is an AI-based fraud detection system. This system will analyse transactional behavior and user activity patterns to predict fraud.
 
@@ -20,11 +20,11 @@ Will flag suspicious transactions before fraud is actually committed.
 
 Anomaly detection and risk scoring will identify suspicious intent.
 
-🏗️ System Architecture
+ System Architecture
 
 User → Web Application → API Server → Feature Engineering → Fraud Detection Model → Risk Scoring Engine → Database → Alert System
 
-🛠️ Planned Tech Stack
+ Planned Tech Stack
 
 Frontend: HTML + React
 Backend: Flask + Node.js

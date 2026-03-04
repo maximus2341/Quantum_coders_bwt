@@ -1,0 +1,13 @@
+0
+amount
+hour
+velocity_1min
+velocity_5min
+velocity_1hr
+amount_zscore
+geo_risk_score
+is_new_device
+is_new_location
+time_since_last_tx
+is_foreign
+is_vpn
